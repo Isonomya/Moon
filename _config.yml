@@ -74,3 +74,8 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+
+## => GitHub Repository (if the site is hosted by GitHub)
+##############################
+repository: Isonomya/Moon
+repository_tree: master
